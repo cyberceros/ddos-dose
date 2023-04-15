@@ -1,2 +1,3 @@
-# ddos-dose
-Layer 4 Scripts to DDoS
+
+# Script for DDoS-Dose ! {Under Development}
+
