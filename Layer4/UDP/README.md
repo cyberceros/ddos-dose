@@ -37,6 +37,11 @@ my $packet_count = 1000000000000000; (Line9)
 ```
 perl random-udp.pl
 ```
+```
+YOU CAN RUN IT MULTIPLE TIME TO INCREASE TRAFFIC LIKE - Depends on CPU/RAM
+perl random-udp.pl & perl random-udp.pl & perl random-udp.pl
+---> Multithreading Causing Issue
+```
 
 
 ## Related
