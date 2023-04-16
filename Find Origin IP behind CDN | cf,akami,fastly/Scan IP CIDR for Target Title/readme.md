@@ -53,7 +53,7 @@ python3 ip-scan.py <target CIDR>
 
 ## FAQ
 #### How it's can be used for DDoS? 
-Answer Use your brain cells :)
+Answer: Use your brain cells :)
 
 ## Authors
 
