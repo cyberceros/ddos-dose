@@ -28,6 +28,7 @@ python3 paping.py <target ip> <target port>
 ## Screenshots
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1096986540049182821/1096986710073684018/image.png)
+![App Screenshot](https://cdn.discordapp.com/attachments/1096986540049182821/1096987107928592494/image.png)
 
 ## Authors
 
