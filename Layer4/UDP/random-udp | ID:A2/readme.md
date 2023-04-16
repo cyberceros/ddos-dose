@@ -14,7 +14,7 @@
 One Line Setup for Debian Based distro ~ Ubuntu, Debian
 
 ```bash
-  wget https://raw.githubusercontent.com/cyberceros/ddos-dose/main/Layer4/UDP/random-udp-string%20%7C%20ID%3AA2/random-udp-string.pl && chmod 777 * && apt update -y && apt install perl -y
+  apt update -y && apt install perl -y && apt install wget -y && wget https://raw.githubusercontent.com/cyberceros/ddos-dose/main/Layer4/UDP/random-udp-string%20%7C%20ID%3AA2/random-udp-string.pl && chmod 777 *
 ```
 
 ## Usage
