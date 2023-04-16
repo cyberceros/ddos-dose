@@ -36,6 +36,20 @@ python3 ip-scan.py <target CIDR>
 - For running on IDE (PyCharm) (line 14) change ip_range value to CIDR value
 - ip_range = sys.argv[1]   ---> ip_range = 3.7.64.0/18  
 ```
+
+
+## Scanned for "nginx" word
+
+![App Screenshot](https://cdn.discordapp.com/attachments/1096986540049182821/1097005207830941757/image.png)
+
+## Checked 1st responce
+![App Screenshot](https://cdn.discordapp.com/attachments/1096986540049182821/1097005620433006692/image.png)
+
+## Checked 8th responce
+![App Screenshot](https://cdn.discordapp.com/attachments/1096986540049182821/1097005960062574712/image.png)
+
+
+
 ## Authors
 
 - [@cyberceros](https://www.github.com/cyberceros)
