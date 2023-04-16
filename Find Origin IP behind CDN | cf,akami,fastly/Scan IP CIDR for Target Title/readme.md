@@ -19,7 +19,7 @@ One Line Setup for Debian Based distro ~ Ubuntu, Debian
 
 ## How to Set the Word Script going to Search --->
 ```
-  target_title = 'nginx'  (Line 11)
+  target_title = 'nginx'  (Line 11) replace nginx with your targeted word/title
 ```
 
 ## Usage
