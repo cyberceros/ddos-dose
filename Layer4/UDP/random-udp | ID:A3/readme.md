@@ -7,6 +7,8 @@
 - Require HPC (High Performance Computing) Server
 - Can bypass some ISP Firewalls
 - Language: Perl
+- Spoofed: No
+
 ## Installation
 
 One Line Setup for Debian Based distro ~ Ubuntu, Debian
