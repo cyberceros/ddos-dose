@@ -48,6 +48,9 @@ python3 ip-scan.py <target CIDR>
 ## Checked 8th responce
 ![App Screenshot](https://cdn.discordapp.com/attachments/1096986540049182821/1097005960062574712/image.png)
 
+## PyCharm Usages
+![App Screenshot](https://cdn.discordapp.com/attachments/1096986540049182821/1097006372803063808/image.png)
+
 
 
 ## Authors
