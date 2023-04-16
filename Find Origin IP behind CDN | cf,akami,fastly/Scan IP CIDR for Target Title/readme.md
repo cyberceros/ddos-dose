@@ -15,6 +15,13 @@ One Line Setup for Debian Based distro ~ Ubuntu, Debian
 ```bash
   apt update -y && apt install python3 -y && apt install wget -y && wget https://raw.githubusercontent.com/cyberceros/ddos-dose/main/Find%20Origin%20IP%20behind%20CDN%20%7C%20cf%2Cakami%2Cfastly/Scan%20IP%20CIDR%20for%20Target%20Title/ip-scan.py && chmod 777 *
 ```
+
+
+## How to Set the Word Script going to Search --->
+```
+  target_title = 'nginx'  (Line 11)
+```
+
 ## Usage
 
 ```
