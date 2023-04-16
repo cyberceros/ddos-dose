@@ -4,7 +4,7 @@
 ## Features
 
 - Generate Random TCP Traffic
-- To Target Port & from Random Port
+- To Target Port & from specif Port
 - Require HPC (High Performance Computing) Server
 - Can bypass some ISP Firewalls
 - Language: Perl
