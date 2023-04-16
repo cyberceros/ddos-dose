@@ -51,7 +51,9 @@ python3 ip-scan.py <target CIDR>
 ## PyCharm Usages
 ![App Screenshot](https://cdn.discordapp.com/attachments/1096986540049182821/1097006372803063808/image.png)
 
-
+## FAQ
+#### How it's can be used for DDoS? 
+Answer Use your brain cell :)
 
 ## Authors
 
