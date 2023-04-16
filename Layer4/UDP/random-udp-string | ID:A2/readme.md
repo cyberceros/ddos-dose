@@ -7,6 +7,7 @@
 - Require HPC (High Performance Computing) Server
 - Can bypass some ISP Firewalls
 - Language: Perl
+- Spoofed: No (doesn't include IP header Modification)
 
 ## Installation
 
