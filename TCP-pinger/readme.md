@@ -25,6 +25,9 @@ python3 paping.py <target ip> <target port>
 - This script can be configured with timeout (line18) ---> sock.settimeout(0.5)
 - This script can be configured with delay between next ping (line 35) ---> time.sleep(0.5)
 ```
+## Screenshots
+
+![App Screenshot](https://cdn.discordapp.com/attachments/1096986540049182821/1096986710073684018/image.png)
 
 ## Authors
 
