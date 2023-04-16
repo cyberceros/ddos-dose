@@ -7,6 +7,7 @@
 - Can be Configure with timeout & delay between reconnect
 - Easy to Customize for beginners
 - Display Error Code, responded by host (Con refused, timedout)
+- Display responce time in seconds
 - Language: Python
 ## Installation
 
