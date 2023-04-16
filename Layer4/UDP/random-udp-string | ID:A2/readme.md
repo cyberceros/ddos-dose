@@ -1,4 +1,4 @@
-# Script for DDoS-Dose ! {Under Development}
+# Script for DDoS-Dose ! 
 
 ## Features
 
