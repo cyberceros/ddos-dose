@@ -33,15 +33,17 @@ name or the directory of user-agent file!
 ```
 - This script purpose to understand the HTTP ddos, to understand how traffic flows,
 ```
-## Authors
 
-- [@cyberceros](https://www.github.com/cyberceros)
-## Feedback
-
-If you have any feedback, please reach out to us at n@dultr.in
 ## Screenshot for understanding the Script workflow !
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1096986540049182821/1097327395826040984/Attacker_Server.png)
 
 ## Targeted Server
 ![App Screenshot](https://cdn.discordapp.com/attachments/1096986540049182821/1097328145188794651/Attacker_Server_1.png)
+
+## Authors
+
+- [@cyberceros](https://www.github.com/cyberceros)
+## Feedback
+
+If you have any feedback, please reach out to us at n@dultr.in
