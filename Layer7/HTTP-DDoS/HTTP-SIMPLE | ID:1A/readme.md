@@ -32,6 +32,7 @@ name or the directory of user-agent file!
 ```
 ```
 - This script purpose to understand the HTTP ddos, to understand how traffic flows,
+- Support only Attack to HTTP url,
 ```
 
 ## Screenshot for understanding the Script workflow !
