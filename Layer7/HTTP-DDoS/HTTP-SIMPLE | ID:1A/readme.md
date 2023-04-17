@@ -42,6 +42,10 @@ name or the directory of user-agent file!
 ## Targeted Server
 ![App Screenshot](https://cdn.discordapp.com/attachments/1096986540049182821/1097328145188794651/Attacker_Server_1.png)
 
+## Used 2 Aws Serever with 32 Core to Attack this, Checkhost Report
+![App Screenshot](https://cdn.discordapp.com/attachments/1096986540049182821/1097333866219450418/image.png)
+permanent link for this check: https://check-host.net/check-report/f95317ck4c6
+
 ## Authors
 
 - [@cyberceros](https://www.github.com/cyberceros)
