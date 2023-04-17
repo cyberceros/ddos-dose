@@ -16,7 +16,7 @@
 One Line Setup for Debian Based distro ~ Ubuntu, Debian
 
 ```bash
-  apt update -y && apt install perl -y && apt install wget -y && wget https://raw.githubusercontent.com/cyberceros/ddos-dose/main/Layer7/HTTP-DDoS/HTTP-SIMPLE%20%7C%20ID%3A1A/http.pl && wget https://raw.githubusercontent.com/cyberceros/ddos-dose/main/Layer7/HTTP-DDoS/HTTP-SIMPLE%20%7C%20ID%3A1A/user.txt && chmod 777 *
+  apt update -y && apt install perl -y && apt install wget -y && wget https://raw.githubusercontent.com/cyberceros/ddos-dose/main/Layer7/HTTP-DDoS/HTTP-SIMPLE%20%7C%20ID%3A1A/http.pl && wget https://raw.githubusercontent.com/cyberceros/ddos-dose/main/Layer7/HTTP-DDoS/HTTP-SIMPLE%20%7C%20ID%3A1A/user.txt && yes | perl -MCPAN -e'install "LWP::Simple"' && chmod 777 *
 ```
 ## Usage
 
