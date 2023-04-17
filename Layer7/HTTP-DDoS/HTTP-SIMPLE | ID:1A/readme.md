@@ -21,7 +21,7 @@ One Line Setup for Debian Based distro ~ Ubuntu, Debian
 ## Usage
 
 ```
-perl http.pl --url https://dultr.in/ --requests 100000 --threads 50
+perl http.pl --url http://dultr.in/ --requests 100000 --threads 50
 perl http.pl --url <target_url> --requests <no_of_req> --threads <no_of_threads>
 ```
 ```
