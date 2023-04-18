@@ -30,6 +30,12 @@ To customize the URL from where the script read for command (Line 10)
     $GetCmd = file_get_contents("https://nee.dultr.in/cmd.txt");
 Change the URL between ""    
 ```
+```
+When the Last command executed on Terminal and finish execution and then the script
+how much time after will check for a new command on the web url, You can Customize that
+in (line 16) 
+---> sleep(30); | This is in seconds, you can customize, minimum suggest: 5-10 seconds.  
+```
 ## For writing the Command to "cmd.txt" file, a php web script
 
 Check this folder of repo, You can use this to write command to "cmd.txt" using web interface!
