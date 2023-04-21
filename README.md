@@ -15,5 +15,5 @@ This "ddos-dose" repo made for learning purpose and to understand the workflow o
 
 | Type      | Proto    | ID of Scrips                      | Link | Spoof |
 | :-------- | :------- | :-------------------------------- | :--- | :---  |
-| `Layer4`  | `UDP`    | **ID:A2**. random-udp             |  [me](https://github.com/cyberceros/ddos-dose/tree/main/Layer4/UDP/random-udp%20%7C%20ID:A2)    | No    |
-| `Layer4`  | `TCP`    | **ID:A3**. random-tcp             |  [me](https://github.com/cyberceros/ddos-dose/tree/main/Layer4/TCP/random-tcp%20%7C%20ID:A3)    | No    |
+| `Layer4`  | `UDP`    | **ID:A2** (random-udp)             |  [me](https://github.com/cyberceros/ddos-dose/tree/main/Layer4/UDP/random-udp%20%7C%20ID:A2)    | No    |
+| `Layer4`  | `TCP`    | **ID:A3** (random-tcp)           |  [me](https://github.com/cyberceros/ddos-dose/tree/main/Layer4/TCP/random-tcp%20%7C%20ID:A3)    | No    |
