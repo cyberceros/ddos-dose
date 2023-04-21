@@ -31,16 +31,6 @@ Check Screenshot below
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/1096986540049182821/1098831837444460565/image.png)
 
-## Usages !
-
-![App Screenshot](https://cdn.discordapp.com/attachments/1096986540049182821/1098831837444460565/image.png)
-
-
-
-
-
-
-
 
 ## Read Command from URL and Execute on SSH Terminal ↓
 
