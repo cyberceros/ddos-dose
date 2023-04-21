@@ -1,5 +1,5 @@
 
-# Script for HTTP DDoS Attack (Custoom Modification) ↓
+# Script for HTTP DDoS Attack (Custom Modification) ↓
 
 ## Features
 
