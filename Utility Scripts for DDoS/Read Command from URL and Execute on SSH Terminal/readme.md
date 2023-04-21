@@ -20,7 +20,7 @@ One Line Setup for Debian Based distro ~ Ubuntu, Debian
 
 ```
 Recommended to Execute this script under screen command.
-So it's will run on backgroup and keep checking for command on URL
+So it's will run on backgroud and keep checking for command on URL
 ```
 ```
 screen -d -m php read.php
