@@ -46,6 +46,15 @@ name or the directory of user-agent file!
 ![App Screenshot](https://cdn.discordapp.com/attachments/1096986540049182821/1097333866219450418/image.png)
 ## permanent link for this check: https://check-host.net/check-report/f95317ck4c6
 
+
+## Check this Script Also for better Understanding ->
+
+Click Below ↓
+
+[Click Here for that Script](https://github.com/cyberceros/ddos-dose/tree/main/Layer7/HTTP-DDoS/HTTP-SIMPLE-CUSTOM%20%7C%20ID:2A)
+
+
+
 ## Authors
 
 - [@cyberceros](https://www.github.com/cyberceros)
