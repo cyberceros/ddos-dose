@@ -4,7 +4,7 @@
 
     if(isset($_POST['wr']))
     {
-        file_put_contents("command.php","".$_POST['content']);
+        file_put_contents("cmd.txt","".$_POST['content']);
         
     }
 
